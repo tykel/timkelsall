@@ -65,6 +65,11 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+  color: #ddd;
+}
+
+.masthead-brand:hover {
+  color: #fff;
 }
 
 .masthead-nav > li {
@@ -181,7 +186,7 @@ body {
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 }
 
-.col-md-6 {
+.ptitle {
   border-left: 1px solid #555;
   border-right: 1px solid #555;
   font-size: 18px;
